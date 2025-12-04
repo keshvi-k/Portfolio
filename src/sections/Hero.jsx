@@ -38,14 +38,6 @@ function Hero() {
         </div>
       </div>
 
-      <div className="hero-card">
-        <p className="hero-card-title">Current Focus</p>
-        <ul>
-          <li>Java + Spring Boot microservices</li>
-          <li>AWS cloud-native architectures</li>
-          <li>AI-assisted DevOps & log analysis</li>
-        </ul>
-      </div>
     </section>
   );
 }
